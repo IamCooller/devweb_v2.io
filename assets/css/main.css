@@ -1,0 +1,33 @@
+.hat-main{   
+    background-color: #545454;
+}
+
+.hat-main_block{
+    justify-content: space-between;
+    text-align: center;
+}
+
+.hat-main_block h2{
+    margin: 0;
+    max-width: 300px;
+    font-family:'CenturyGothic-Bold',sans-serif;
+    padding: 20px;
+    color:#FFFFFF;
+}
+
+.services-block{
+    text-align: center;
+    width: 100%;
+}
+
+.services-block p{
+    color:#2F2F2F;
+    font-family:'CenturyGothic',sans-serif;
+    text-align: center;
+    max-width: 19rem;
+}
+
+.services-block img{
+    border: 1px solid #2F2F2F;
+    border-radius: 100px;
+}
